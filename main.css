@@ -81,7 +81,10 @@ input:checked + .slider:before {
 
 body {
     background-color: var(--main);
+<<<<<<< HEAD
     /* overflow: hidden; */
+=======
+>>>>>>> 901ce15c05417d0fb9a49eca755b7d9e327df0a0
 }
 
 header {
@@ -208,6 +211,7 @@ footer {
         color: var(--second);
         font-size: 14px;
     }
+<<<<<<< HEAD
 }
 
 @media (max-width:500px) {
@@ -241,4 +245,6 @@ footer {
             font-size: 12px;
         }
     }
+=======
+>>>>>>> 901ce15c05417d0fb9a49eca755b7d9e327df0a0
 }
