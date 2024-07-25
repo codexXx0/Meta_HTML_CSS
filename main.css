@@ -10,7 +10,7 @@
     --white: white ;
     --black: black;
 }
-body:has(#light:checked) {
+body.dark-mode {
     --main: #121919 ;
     --second: #46686C ;
     --third: #365353 ;
